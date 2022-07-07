@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [同步整流模块.PrjPcb]
+   Generated File[PCB_V1.0.TXT]
+   Generated File[PCB_V1.0.LDP]
+   Generated File[PCB_V1.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 下午 06:59:05 On 2022/6/28

@@ -1,0 +1,17 @@
+input:12V,output:5V5A:
+Ripple:<100mV
+PSRR:14dB
+
+input:12V,output:5V1A:
+Ripple:<60mV
+PSRR:10dB
+
+input:12V,output:5V0A:
+Ripple:<60mV
+PSRR:-4dB
+
+input:18V,output:5V2A:
+Ripple:<70mV
+PSRR:16dB
+
+Efficency:75%-80%

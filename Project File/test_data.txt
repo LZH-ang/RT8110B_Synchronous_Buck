@@ -14,4 +14,5 @@ input:18V,output:5V2A:
 Ripple:<70mV
 PSRR:16dB
 
-Efficency:75%-80%
+Efficency:75%-80%(AOD442G-MS)  
+          80%-85%(MDD1502,MDD1501)

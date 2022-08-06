@@ -5,6 +5,8 @@ with Altium Designer
 ***input:12V,output:5V5A:***  
 ***Ripple:<100mV***  
 ***PSRR:14dB***  
+***input:12V,output:5V8A:***  
+***Ripple:<170mV***  
 
 ***in&output Inductor&Capacitance:calculate by datesheet***  
 ***Mos:Low Vgs,Low Rson,Vds>40V,Low Gate Charge***  

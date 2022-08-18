@@ -13,4 +13,7 @@ with Altium Designer
 ***in&output Inductor&Capacitance:calculate by datesheet***  
 ***Mos:Low Vgs,Low Rson,Vds>40V,Low Gate Charge***  
 
-![image](https://github.com/LZH-ang/RT8110B_Synchronous_Buck/blob/main/IMAG/Snipaste_2022-07-07_15-51-32.png)
+![image](https://github.com/LZH-ang/RT8110B_Synchronous_Buck/blob/main/IMAG/Snipaste_2022-07-07_15-51-32.png)  
+### **!NEW PCBA!**  
+mos:AOD472,IPD090N03LG,MDD1501,MDD1502  
+![NEW](https://github.com/LZH-ang/RT8110B_Synchronous_Buck/blob/main/IMAG/newpcb.jpg)
